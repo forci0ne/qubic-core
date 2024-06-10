@@ -80,13 +80,13 @@ Qubic.efi
 
 > If you have multiple network interfaces, you may disconnect these before starting qubic.
 
-### Prepare your Server
+### Prepare your computer
 To run Qubic on your server you need the following:
 - UEFI Bios
 - Enabled Network Stack in Bios
 - Your USB Stick/SSD should be the boot device
 
-## General Process of deploying a node
+## General process of deploying a node
 1. Find knownPublicPeers public peers (e.g. from: https://app.qubic.li/network/live)
 2. Set the needed parameters inside src/private_settings.h (https://github.com/qubic/core/blob/main/src/private_settings.h)
 3. Compile Source to EFI

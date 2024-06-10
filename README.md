@@ -1,3 +1,5 @@
+<a href="https://twitter.com/_qubic_" ><img src="https://img.shields.io/badge/JOIN%20DISCORD-blue?style=flat" /> </a>
+
 # qubic - node
 Qubic Node Source Code - this repository contains the source code of a full qubic node.
 
